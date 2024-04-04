@@ -8,22 +8,22 @@ function Footer() {
         <div className='footer'>
       
         <div className='footer1'>
-            <img src='Pictures/carngo-clone-2.png'/>
+            <img src='Pictures/carngo-clone-2.png' alt='clone2image'/>
             
         </div>
         <div className='footer2'>
-          <div><img src='Pictures/complete.svg'/>
+          <div><img src='Pictures/complete.svg' alt='svg'/>
           <h3>comple customizable and branding</h3>
           </div>
-          <div><img src='Pictures/android-ios.svg'/>
+          <div><img src='Pictures/android-ios.svg' alt='ios-svg'/>
           <h3>available for andriod ios</h3></div>
-          <div><img src='Pictures/high-number-user.svg'/>
+          <div><img src='Pictures/high-number-user.svg' alt='usersvg'/>
           <h3>Easily accomdate a number of user activity</h3></div>
-          <div><img src='Pictures/build-developers.svg'/> <h3>Dedicate Admin Pan to manage all the fetures of application</h3>
+          <div><img src='Pictures/build-developers.svg' alt='developer.svg'/> <h3>Dedicate Admin Pan to manage all the fetures of application</h3>
           </div>
-          <div><img src='Pictures/dedicate-admin-panel.svg'/>
+          <div><img src='Pictures/dedicate-admin-panel.svg' alt='panel-svg'/>
           <h3>Provide code to adopt complete customizations</h3></div>
-          <div><img src='Pictures/provide-code-support.svg'/>
+          <div><img src='Pictures/provide-code-support.svg' alt='support.svg'/>
           <h3>Free bug support in the support period</h3></div>
 
             </div>

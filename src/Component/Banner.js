@@ -5,7 +5,7 @@ function Banner() {
   return (
   <div className='banner'>
     <div className='banner-card'>
-        <img src='Pictures/car.jpg'/>
+        <img src='Pictures/car.jpg' alt=' carimage'/>
        <div className='heading'>
        <h1>ZoomCar Clone App <br/> Developement Company</h1>
         <h3>Lorem ipsum dolor sit amet consceture</h3>

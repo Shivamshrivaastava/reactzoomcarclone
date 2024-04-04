@@ -20,7 +20,7 @@ function Clonebody() {
         <a href='https://www.omninos.in/contact.php'><button>Buy Now ZoomCar Clone App</button></a>
       </div>
       <div className='cargo'>
-        <img src='Pictures/carngo-clone-1.png'/>
+        <img src='Pictures/carngo-clone-1.png' alt='clone-jpg'/>
       </div>
     </div>
    
